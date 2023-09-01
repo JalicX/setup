@@ -36,7 +36,7 @@ Preamp | [dbx 286s](https://dbxpro.com/en/products/286s#specifications)
 PrePreamp | [Klark Teknik Mic Booster CT1](https://www.klarkteknik.com/product.html?modelCode=P0E2N)
 MicArm | [Røde PSA1<b>+</b>](https://rode.com/de/accessories/stands-bars/psa1-plus)
 Stream Deck | Elgato 5x3
-Cam 📷 | [Sony 5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit#product_details_default) + [CamLink 4k](https://www.elgato.com/de/de/p/cam-link-4k) ~~Logitech C920~~
+Cam 📷 | [Sony 5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit#product_details_default) + [CamLink 4k](https://www.elgato.com/de/de/p/cam-link-4k) \| ~~Logitech C920~~
 Key Light 🔦 | RALENO LED Videoleuchte
 Fill Light 🔦 | RALENO LED Videoleuchte
 Edge Light 🔦 | Godox SL60W 
@@ -67,5 +67,5 @@ Kategorie | Teil
 Laptop | Dell Precision 7560
 Dock | Dell D6000
 Maus | Logitech MX Master 3S for Mac
-Tastatur | ~~Logitech MX Keys?~~
+Tastatur | Logitech MX Keys Mini (Pink)
 Headset | Jabra Evolve 65
