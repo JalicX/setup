@@ -41,7 +41,7 @@ Key Light 🔦 | RALENO LED Videoleuchte
 Fill Light 🔦 | RALENO LED Videoleuchte
 Edge Light 🔦 | Godox SL60W 
 Tisch | **Flexispot E7** + 1.8*0.8 m² Bambusplatte
-Stuhl | tbd
+Stuhl | [Topstar Sitness Profi 650](https://www.testberichte.de/p/topstar-tests/sitness-profi-650-testbericht.html)
 
 \* Keine Affilate Links
 
@@ -70,3 +70,5 @@ Maus | Logitech MX Master 3S for Mac
 Tastatur | Logitech MX Keys Mini (Pink)
 Headset | Jabra Evolve 65
 Darts | 3x [RED DRAGON Javelin Spectron 24g](https://www.reddragondarts.com/javelin-spectron-24-gram) 🎯
+
+\* Keine Affilate Links
