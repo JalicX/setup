@@ -69,3 +69,4 @@ Dock | Dell D6000
 Maus | Logitech MX Master 3S for Mac
 Tastatur | Logitech MX Keys Mini (Pink)
 Headset | Jabra Evolve 65
+Darts | 3x [RED DRAGON Javelin Spectron 24g](https://www.reddragondarts.com/javelin-spectron-24-gram) 🎯
