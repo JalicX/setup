@@ -8,7 +8,7 @@ CPU | [**AMD Ryzen 7 3700X**](https://www.amd.com/de/support/cpu/amd-ryzen-proce
 GraKa | [**NVIDIA GEFORCE RTX 3090 FE**](https://www.nvidia.com/de-de/geforce/graphics-cards/30-series/rtx-3090-3090ti/#specs)
 RAM | [32GB G.Skill Trident Z Neo 3200MHz CL14](https://www.gskill.com/product/165/326/1562838637/F4-3200C14D-32GTZN)
 MainBoard | [MSI X470 Gaming Plus](https://de.msi.com/Motherboard/X470-GAMING-PLUS/Specification#spec-basic)
-SSD1 | Samsung 970 EVO 1TB
+SSD1 | Samsung 970 EVO 1TB \| soon: _Samsung 980 PRO_
 SSD2 | Crucial MX500 2TB
 HDD1 | WD RED 3TB
 HDD2 | WD Green 2TB
