@@ -1,0 +1,42 @@
+[h1]Mein PC:[/h1]
+CPU: [b]AMD Ryzen 7 5800X3D[/b]
+GraKa: [b]NVIDIA GEFORCE RTX 3090 FE[/b]
+NT: BeQuiet Straight Power 11 1000W Platinum
+SSD1: [b]Samsung 970 EVO 1TB[/b]
+SSD2: Crucial MX500 2TB
+HDD1: WD RED 3TB
+HDD2: WD Green 2TB
+MB: MSI X470 Gaming Plus
+RAM: 32GB G.Skill Trident Z Neo 3200MHz CL14
+Case: [b]Fractal Design Define R5[/b]
+CPU-Fan: Noctua NH-D 14
+Case-Fan: 3x Fractal Design GP14
+
+
+[h1]Perperie[/h1]
+Maus: [b]Razer Deathadder V2[/b] | Logitech MX Master 3S for Mac | Logitech G502 Hero SE
+Pad: CSL Titanwolf 1.2x0.6m Mauspad
+Tastatur: [b]Corsair Strafe RGB[/b] mit Cherry MX Silent
+1.Monitor: [b]Huawei MateView GT34[/b] 165hz UWQHD 1500R VA
+2.Monitor: [b]ASUS VG279Q[/b] 144hz FHD IPS
+3.Monitor: (hochkant) ASUS VG248QE 144Hz FHD TN 
+[s]2.Monitor: Samsung S24F356F IPS[/s]
+[s]3.Monitor: Medion, 24" FHD TN[/s]
+KH: [b]Beyerdynamic DT990 PRO 250Ω[/b]
+Headset: HyperX Cloud Alpha Wireless
+Audio Interface: [b]Focusrite Scarlett 2i2 2nd gen[/b]
+Mic: [b]Shure SM57[/b]
+        & Audio-Technica AT875R
+        & Studio Projects B1
+Preamp: [b]dbx 286s[/b]
+PrePreamp: Klark Teknik CT1
+Røde PSA1+
+XBox 360 Controller for pc
+Tab: Wacom Intous M Pen & Touch
+Elgato Stream Deck 5x3
+Sony 5100 + CamLink 4k
+Logitech C920
+Key:   RALENO LED Videoleuchte
+Fill:     RALENO LED Videoleuchte
+Edge: Godox SL60W
+NfS OFC
