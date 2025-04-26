@@ -1,0 +1,114 @@
+.RoN Missions
+[cols="1,4,5,1,1"]
+|===
+|Nr |Name |Beschreibung |Tier |Time
+
+| 1
+| THANK YOU, COME AGAIN
+| Tankstelle
+| S
+| 06:15.00
+
+| 2
+| 23 MEGABYTES A SECOND
+| Favela
+| S
+| 08:56.01
+
+| 3
+| TWISTED NERVE
+| Drogenlab
+| B
+| 21:57.00
+
+| 4
+| THE SPIDER
+| Casting Couch
+| B
+| 11:21.00
+
+| 5
+| A LETHAL OBSESSION
+| Waldhaus
+| S
+| 05:58.74
+
+| 6
+| IDES OF MARCH
+| Brisa Apartments
+| A
+| 14:03.00
+
+| 7
+| SINUOUS TRAIL
+| Serverfarm
+| A
+| 18:53.01
+
+| 8
+| ENDS OF THE EARTH
+| Haus am Strand
+| S
+| 04:27.01
+
+| 9
+| GREASED PALMS
+| Post Sortierungshalle
+| C
+| 23:15.01
+
+| 10
+| VALLEY OF THE DOLLS
+| Geburtstagsparty
+| S
+| 18:56.00
+
+| 11
+| ELEPHANT
+| School Shooting
+| A+
+| 06:28.00
+
+| 12
+| RUST BELT
+| Sicario
+| B
+| 11:07.00
+
+| 13
+| SINS OF THE FATHER
+| Clemente Hotel
+| B
+| 13:13.00
+
+| 14
+| NEON TOMB
+| Discobomber
+| E
+| 11:11.00
+
+| 15
+| BUY CHEAP, BUT TWICE
+| Autohaus
+| B
+| 13:44.00
+
+| 16
+| CARRIERS OF THE VINE
+| Sekte
+| A
+| 21:32.00
+
+| 17
+| RELAPSE
+| Hospital
+| B
+| 27:32.00
+
+| 18
+| HIDE AND SEEK
+| Hafen Docks
+| C
+| 56:33.02
+
+|===
