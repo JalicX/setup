@@ -111,4 +111,40 @@
 | C
 | 56:33.02
 
+| HI 1
+| DORMS
+| ???
+| A
+| 19:02.59
+
+| HI 2
+| NARCOS
+| ???
+| -
+| -
+
+| HI 3
+| LAWMAKER
+| ???
+| -
+| -
+
+| DW 1
+| MIRAGE AT SEA
+| Yacht
+| S
+| 11:49.00
+
+| DW 2
+| LEVIATHAN
+| ???
+| -
+| -
+
+| DW 3
+| 3 LETTER TRIAD
+| ???
+| -
+| -
+
 |===
