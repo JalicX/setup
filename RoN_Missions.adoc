@@ -18,14 +18,14 @@
 | 3
 | TWISTED NERVE
 | Drogenlab
-| B
-| 21:57.00
+| A+
+| 18:27.00
 
 | 4
 | THE SPIDER
 | Casting Couch
-| B
-| 11:21.00
+| S
+| 10:53.00
 
 | 5
 | A LETHAL OBSESSION
@@ -36,8 +36,8 @@
 | 6
 | IDES OF MARCH
 | Brisa Apartments
-| A
-| 14:03.00
+| S
+| 12:42.00
 
 | 7
 | SINUOUS TRAIL
@@ -54,7 +54,7 @@
 | 9
 | GREASED PALMS
 | Post Sortierungshalle
-| C
+| S
 | 23:15.01
 
 | 10
@@ -72,7 +72,7 @@
 | 12
 | RUST BELT
 | Sicario
-| B
+| S
 | 11:07.00
 
 | 13
@@ -84,7 +84,7 @@
 | 14
 | NEON TOMB
 | Discobomber
-| E
+| S
 | 11:11.00
 
 | 15
