@@ -7,9 +7,10 @@ Kategorie | Teil
 CPU | [**AMD Ryzen 7 5800X3D**](https://www.amd.com/de/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x3d.html#product-specs)
 GraKa | [**NVIDIA GEFORCE RTX 3090 FE**](https://www.nvidia.com/de-de/geforce/graphics-cards/30-series/rtx-3090-3090ti/#specs)
 RAM | [32GB G.Skill Trident Z Neo 3200MHz CL14](https://www.gskill.com/product/165/326/1562838637/F4-3200C14D-32GTZN)
-MainBoard | [Gigabyte X570 Gaming X](https://www.gigabyte.com/de/Motherboard/X570-GAMING-X-rev-10)
+MainBoard | [ASUS ROG Cross hair VIII Hero](https://rog.asus.com/de/motherboards/rog-crosshair/rog-crosshair-viii-hero-model/)
 SSD1 | Samsung 980 PRO 2TB
 SSD2 | Crucial MX500 2TB
+SSD3 | Silicon Power 4TB
 HDD1 | WD RED 3TB
 HDD2 | WD Green 2TB
 Netzteil | [BeQuiet Straight Power 11 1000W Platinum (BN309)](https://www.bequiet.com/admin/ImageServer.php?ID=bb688a29686@be-quiet.net&lang=2&download=false&omitPreview=true)
