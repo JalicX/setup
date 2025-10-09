@@ -32,7 +32,7 @@ Tastatur2 | [Keychron K2 HE](https://keychron.de/de/products/keychron-k2-he-wire
 2.&nbsp;Monitor | [ASUS VG279Q](https://www.asus.com/de/displays-desktops/monitors/gaming/vg279q/techspec/) 144Hz FHD IPS
 3.&nbsp;Monitor | [ASUS VG248QE](https://www.asus.com/de/displays-desktops/monitors/gaming/vg248qe/techspec/) 144Hz FHD TN (hochkant)
 KH | [Beyerdynamic **DT990** Pro 250Ω](https://www.beyerdynamic.de/dt-990-pro.html)
-Audio Interface | [Steinberg IXO 22](https://www.steinberg.net/de/audio-interfaces/ixo22/)
+Audio Interface | [Solid State Logic SSL 2+ MKII](https://www.solidstatelogic.com/products/ssl-2-plus-mkii)
 Mic 🎤 | [Shure **SM57**](https://www.shure.com/de-DE/produkte/mikrofone/sm57) + [A2WS](https://www.shure.com/de-DE/produkte/zubehoer/a2ws) 
 Preamp | [dbx 286s](https://dbxpro.com/en/products/286s#specifications)
 PrePreamp | [Klark Teknik Mic Booster CT1](https://www.klarkteknik.com/product.html?modelCode=P0E2N)
