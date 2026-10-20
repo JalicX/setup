@@ -26,49 +26,35 @@ Kategorie | Teil
 :---: | ---
 Maus wireless | [**Razer DeathAdderV3 Pro Hyperspeed**](https://www.razer.com/de-de/gaming-mice/razer-deathadder-v3-hyperspeed?page=tech-specs) 🐁
 Maus wired | [**Razer DeathAdderV2**](https://www.razer.com/de-de/gaming-mice/razer-deathadder-v2) 🐁
-Mauspad | CSL Titanwolf 1.2x0.6m 
-Tastatur1 wired | [**RAZER Huntsman V3 Pro**](https://www.razer.com/de-de/gaming-keyboards/razer-huntsman-v3-pro)
-Tastatur2 wireless | [Keychron K2 HE](https://keychron.de/de/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard?variant=43071563071625)
+Mauspad | [Wallhack CR-005](https://wallhack.com/de-de/products/cr-005-black) (440x510x3.3)mm 1450G `Micro etched tempered glass`
+Deskmat | CSL Titanwolf 1.2x0.6m 
+Tastatur wired | [**Wooting 60HE v2 Alu ISO DE**](https://wooting.io/wooting-60he-v2) [Konfigurator](https://wooting.io/configurator/wooting-60he-v2?keycaps=55953213915480&model=ISO&lang=German)
+Tastatur wireless | [Keychron K2 HE](https://keychron.de/de/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard?variant=43071563071625)
 1.&nbsp;Monitor | [**HUAWEI MateView GT 34**](https://consumer.huawei.com/de/monitors/mateview-gt-se/specs/) UWQHD (3440x1440px) 43:18 165Hz 1500R VA
 2.&nbsp;Monitor | [Acer Nitro XV271UM3](https://store.acer.com/de-de/acer-nitro-xv1-gaming-monitor-xv271um3-schwarz) WQHD 180Hz IPS
 3.&nbsp;Monitor | [ASUS VG279Q](https://www.asus.com/de/displays-desktops/monitors/gaming/vg279q/techspec/) FHD 144Hz IPS (hochkant)
 KH | [Beyerdynamic **DT990** Pro 250Ω](https://www.beyerdynamic.de/dt-990-pro.html)
+InEars | [Linsoul 7 Hz x Crinacle Zero:2 32Ω](https://linsoul.de/de/products/7hz-x-crinacle-zero-2?variant=49350243582257)
 Audio Interface | [Solid State Logic SSL 2+ MKII](https://www.solidstatelogic.com/products/ssl-2-plus-mkii)
 Mic 🎤 | [Shure **SM57**](https://www.shure.com/de-DE/produkte/mikrofone/sm57) + [A2WS](https://www.shure.com/de-DE/produkte/zubehoer/a2ws) 
-Preamp | [dbx 286s](https://dbxpro.com/en/products/286s#specifications)
-PrePreamp | [Klark Teknik Mic Booster CT1](https://www.klarkteknik.com/product.html?modelCode=P0E2N)
-MicArm | [Røde PSA1<b>+</b>](https://rode.com/de/accessories/stands-bars/psa1-plus)
+MicArm | [Elgato Wave Mic Arm Pro White](https://www.elgato.com/eu/en/p/wave-mic-arm-pro-white)
 Stream Deck1 | Elgato 5x3
 Stream Deck2 | Elgato Plus
+Stream Deck3 | Elgato Stream Deck Pedal
 Cam 📷 | [Sony 5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit#product_details_default) \| [Sony E10](https://www.sony.de/interchangeable-lens-cameras/products/zv-e10/spec) + [CamLink 4k](https://www.elgato.com/de/de/p/cam-link-4k) \| [AVerMedia BU113](https://www.avermedia.com/de/product-detail/BU113)
 Key Light 🔦 | Elgateo Key Light Air
 Fill Light 🔦 | Elgateo Key Light Air
 Edge Light 🔦 | Godox SL60W 
 Tisch | **Flexispot E7** + 1.8*0.8 m² Bambusplatte
-Stuhl | [Topstar Sitness Profi 650](https://www.testberichte.de/p/topstar-tests/sitness-profi-650-testbericht.html)
+Stuhl | [Herman Miller Embody](https://www.chairgo.de/herman-miller-embody-black-and-white/) `Black & White`, Bezug `Rhythm` + Atlas Headrest
 
 \* Keine Affilate Links
 
-## Peripherie SecondarySetup
-
-Kategorie | Teil
-:---: | ---
-Maus | Logitech G502SE HERO 🐁
-Mauspad | tbd
-Tastatur | Roccat XY
-1.&nbsp;Monitor | ASUS VG279Q 144Hz FHD IPS
-2.&nbsp;Monitor | Samsung S24F356F IPS
-3.&nbsp;Monitor | Medion, 24" FHD TN
-KH | Superlux HD681
-Audio Interface | Focusrite Scarlett Solo gen 2
-Mic | Audio-Technica AT875R 🎤
-MicArm | Røde PSA1
-Stuhl | Need for Seat Office Comfort
-
 ## Setup Wörk
+
 Kategorie | Teil
 :---: | ---
-Laptop | Dell Precision 7560
+Laptop | Lenovo ThinkPad T14 Gen 6
 Dock | Dell D6000
 Maus | Logitech MX Master 3S for Mac
 Tastatur | Logitech MX Keys Mini (Pink)
